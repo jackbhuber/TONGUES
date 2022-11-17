@@ -2,29 +2,36 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "TONGUES",
+    "title": "Effects of Glossolalia",
     "section": "",
-    "text": "This is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2"
+    "text": "Some Christians speak in tongues. This study uses data from the Pew Research Center 2014 Religious Landscape Study to examine the effect of glossolalia on a variety of religious, social, and political attitudes and behavior."
   },
   {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "1  Introduction",
+    "objectID": "background.html",
+    "href": "background.html",
+    "title": "Background",
     "section": "",
-    "text": "See Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "Who speaks in tongues? Which traditions? Which demographics?\nCorrelates of glossolalia. What religious variables are most predictive of glossolalia? Is there something special about speaking in tongues?\nEffects of glossolalia on attitudes, psychology well-being?"
   },
   {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "2  Summary",
+    "objectID": "methods.html",
+    "href": "methods.html",
+    "title": "Methods",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "The data for this project come from the 2014 Religious Landscape Study, by the Pew Research Center."
   },
   {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "objectID": "methods.html#instruments",
+    "href": "methods.html#instruments",
+    "title": "Methods",
+    "section": "Instruments",
+    "text": "Instruments"
+  },
+  {
+    "objectID": "methods.html#statistical-analysis",
+    "href": "methods.html#statistical-analysis",
+    "title": "Methods",
+    "section": "Statistical Analysis",
+    "text": "Statistical Analysis"
   }
 ]
